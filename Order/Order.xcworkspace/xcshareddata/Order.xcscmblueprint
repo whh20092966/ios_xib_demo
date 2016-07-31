@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2304d85f-0fc8-4c05-8caf-5f8cb78d5f43++7287",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2304d85f-0fc8-4c05-8caf-5f8cb78d5f43++7287" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2304d85f-0fc8-4c05-8caf-5f8cb78d5f43++7287" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B0445966-3ED8-41AC-B3A3-5B3025FA8485",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2304d85f-0fc8-4c05-8caf-5f8cb78d5f43++7287" : "soure\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Order",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/OrderIOS\/Order\/Order.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/www.svnchina.com\/svn_tmp\/wallet_assistant",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2304d85f-0fc8-4c05-8caf-5f8cb78d5f43++7287"
+    }
+  ]
+}

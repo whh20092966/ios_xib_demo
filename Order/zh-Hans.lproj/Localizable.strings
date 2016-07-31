@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Order
+
+  Created by 1 on 16/7/31.
+  Copyright © 2016年 com.starleaks. All rights reserved.
+*/
+"boss"="老板";
+"employee"="员工";
+"bossLogin"="老板登录";
